@@ -2,5 +2,3 @@
 
 ![Alt Text](bg-gif.gif)
 
-###img
-<img src="bg-gif.gif">
